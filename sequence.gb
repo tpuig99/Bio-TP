@@ -1,0 +1,1332 @@
+LOCUS       NM_000088               5914 bp    mRNA    linear   PRI 24-APR-2022
+DEFINITION  Homo sapiens collagen type I alpha 1 chain (COL1A1), mRNA.
+ACCESSION   NM_000088
+VERSION     NM_000088.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 5914)
+  AUTHORS   Perini JA, Lopes LR, Guimaraes JAM, Goes RA, Pereira LFA, Pereira
+            CG, Mandarino M, Villardi AM, de Sousa EB and Cossich VRA.
+  TITLE     Influence of type I collagen polymorphisms and risk of anterior
+            cruciate ligament rupture in athletes: a case-control study
+  JOURNAL   BMC Musculoskelet Disord 23 (1), 154 (2022)
+   PUBMED   35172811
+  REMARK    GeneRIF: Influence of type I collagen polymorphisms and risk of
+            anterior cruciate ligament rupture in athletes: a case-control
+            study.
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 5914)
+  AUTHORS   Tuysuz B, Elkanova L, Uludag Alkaya D, Gulec C, Toksoy G, Gunes N,
+            Yazan H, Bayhan AI, Yildirim T, Yesil G and Uyguner ZO.
+  TITLE     Osteogenesis imperfecta in 140 Turkish families: Molecular spectrum
+            and, comparison of long-term clinical outcome of those with
+            COL1A1/A2 and biallelic variants
+  JOURNAL   Bone 155, 116293 (2022)
+   PUBMED   34902613
+  REMARK    GeneRIF: Osteogenesis imperfecta in 140 Turkish families: Molecular
+            spectrum and, comparison of long-term clinical outcome of those
+            with COL1A1/A2 and biallelic variants.
+REFERENCE   3  (bases 1 to 5914)
+  AUTHORS   Chen FP, Fu TS, Lin YC, Sung CM, Huang MH and Lin YJ.
+  TITLE     Association between P1NP and bone strength in postmenopausal women
+            treated with teriparatide
+  JOURNAL   Taiwan J Obstet Gynecol 61 (1), 91-95 (2022)
+   PUBMED   35181054
+  REMARK    GeneRIF: Association between P1NP and bone strength in
+            postmenopausal women treated with teriparatide.
+REFERENCE   4  (bases 1 to 5914)
+  AUTHORS   Tsitoura E, Trachalaki A, Vasarmidi E, Mastrodemou S,
+            Margaritopoulos GA, Kokosi M, Fanidis D, Galaris A, Aidinis V,
+            Renzoni E, Tzanakis N, Wells AU and Antoniou KM.
+  TITLE     Collagen 1a1 Expression by Airway Macrophages Increases In Fibrotic
+            ILDs and Is Associated With FVC Decline and Increased Mortality
+  JOURNAL   Front Immunol 12, 645548 (2021)
+   PUBMED   34867934
+  REMARK    GeneRIF: Collagen 1a1 Expression by Airway Macrophages Increases In
+            Fibrotic ILDs and Is Associated With FVC Decline and Increased
+            Mortality.
+            Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 5914)
+  AUTHORS   Guerin,A., Dupuis,L. and Mendoza-Londono,R.
+  TITLE     Caffey Disease
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Gripp
+            KW, Mirzaa GM and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   22855962
+REFERENCE   6  (bases 1 to 5914)
+  AUTHORS   Steiner,R.D. and Basel,D.
+  TITLE     COL1A1/2 Osteogenesis Imperfecta
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Gripp
+            KW, Mirzaa GM and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301472
+REFERENCE   7  (bases 1 to 5914)
+  AUTHORS   Malfait,F., Wenstrup,R. and De Paepe,A.
+  TITLE     Classic Ehlers-Danlos Syndrome
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Gripp
+            KW, Mirzaa GM and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301422
+REFERENCE   8  (bases 1 to 5914)
+  AUTHORS   Ghebrehiwet B, Peerschke EI, Hong Y, Munoz P and Gorevic PD.
+  TITLE     Short amino acid sequences derived from C1q receptor (C1q-R) show
+            homology with the alpha chains of fibronectin and vitronectin
+            receptors and collagen type IV
+  JOURNAL   J Leukoc Biol 51 (6), 546-556 (1992)
+   PUBMED   1377218
+REFERENCE   9  (bases 1 to 5914)
+  AUTHORS   Nusgens BV, Verellen-Dumoulin C, Hermanns-Le T, De Paepe A,
+            Nuytinck L, Pierard GE and Lapiere CM.
+  TITLE     Evidence for a relationship between Ehlers-Danlos type VII C in
+            humans and bovine dermatosparaxis
+  JOURNAL   Nat Genet 1 (3), 214-217 (1992)
+   PUBMED   1303238
+REFERENCE   10 (bases 1 to 5914)
+  AUTHORS   Chessler SD and Byers PH.
+  TITLE     Defective folding and stable association with protein disulfide
+            isomerase/prolyl hydroxylase of type I procollagen with a deletion
+            in the pro alpha 2(I) chain that preserves the Gly-X-Y repeat
+            pattern
+  JOURNAL   J Biol Chem 267 (11), 7751-7757 (1992)
+   PUBMED   1339453
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC015909.14 and AB209597.1.
+            On Nov 21, 2019 this sequence version replaced NM_000088.3.
+            
+            Summary: This gene encodes the pro-alpha1 chains of type I collagen
+            whose triple helix comprises two alpha1 chains and one alpha2
+            chain. Type I is a fibril-forming collagen found in most connective
+            tissues and is abundant in bone, cornea, dermis and tendon.
+            Mutations in this gene are associated with osteogenesis imperfecta
+            types I-IV, Ehlers-Danlos syndrome type VIIA, Ehlers-Danlos
+            syndrome Classical type, Caffey Disease and idiopathic
+            osteoporosis. Reciprocal translocations between chromosomes 17 and
+            22, where this gene and the gene for platelet-derived growth factor
+            beta are located, are associated with a particular type of skin
+            tumor called dermatofibrosarcoma protuberans, resulting from
+            unregulated expression of the growth factor. Two transcripts,
+            resulting from the use of alternate polyadenylation signals, have
+            been identified for this gene. [provided by R. Dalgleish, Feb
+            2008].
+            
+            Sequence Note: The RefSeq transcript was derived from the reference
+            genome assembly. The genomic coordinates were determined from
+            alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: Z74615.1, AB209597.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1968189, SAMEA1968540
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000225964.10/ ENSP00000225964.6
+            RefSeq Select criteria :: based on conservation, expression,
+                                      longest protein
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-17                AC015909.14        167934-167950
+            18-2415             AB209597.1         1-2398
+            2416-2416           AC015909.14        178703-178703
+            2417-4738           AB209597.1         2400-4721
+            4739-5914           AC015909.14        184289-185464
+FEATURES             Location/Qualifiers
+     source          1..5914
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="17"
+                     /map="17q21.33"
+     gene            1..5914
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="collagen type I alpha 1 chain"
+                     /db_xref="GeneID:1277"
+                     /db_xref="HGNC:HGNC:2197"
+                     /db_xref="MIM:120150"
+     exon            1..221
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    107..109
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="upstream in-frame stop codon"
+     CDS             119..4513
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="collagen of skin, tendon and bone, alpha-1 chain;
+                     pro-alpha-1 collagen type 1; collagen alpha 1 chain type
+                     I; alpha-1 type I collagen; type I proalpha 1; type I
+                     procollagen alpha 1 chain; alpha1(I) procollagen;
+                     collagen, type I, alpha 1"
+                     /codon_start=1
+                     /product="collagen alpha-1(I) chain preproprotein"
+                     /protein_id="NP_000079.2"
+                     /db_xref="CCDS:CCDS11561.1"
+                     /db_xref="GeneID:1277"
+                     /db_xref="HGNC:HGNC:2197"
+                     /db_xref="MIM:120150"
+                     /translation="MFSFVDLRLLLLLAATALLTHGQEEGQVEGQDEDIPPITCVQNG
+                     LRYHDRDVWKPEPCRICVCDNGKVLCDDVICDETKNCPGAEVPEGECCPVCPDGSESP
+                     TDQETTGVEGPKGDTGPRGPRGPAGPPGRDGIPGQPGLPGPPGPPGPPGPPGLGGNFA
+                     PQLSYGYDEKSTGGISVPGPMGPSGPRGLPGPPGAPGPQGFQGPPGEPGEPGASGPMG
+                     PRGPPGPPGKNGDDGEAGKPGRPGERGPPGPQGARGLPGTAGLPGMKGHRGFSGLDGA
+                     KGDAGPAGPKGEPGSPGENGAPGQMGPRGLPGERGRPGAPGPAGARGNDGATGAAGPP
+                     GPTGPAGPPGFPGAVGAKGEAGPQGPRGSEGPQGVRGEPGPPGPAGAAGPAGNPGADG
+                     QPGAKGANGAPGIAGAPGFPGARGPSGPQGPGGPPGPKGNSGEPGAPGSKGDTGAKGE
+                     PGPVGVQGPPGPAGEEGKRGARGEPGPTGLPGPPGERGGPGSRGFPGADGVAGPKGPA
+                     GERGSPGPAGPKGSPGEAGRPGEAGLPGAKGLTGSPGSPGPDGKTGPPGPAGQDGRPG
+                     PPGPPGARGQAGVMGFPGPKGAAGEPGKAGERGVPGPPGAVGPAGKDGEAGAQGPPGP
+                     AGPAGERGEQGPAGSPGFQGLPGPAGPPGEAGKPGEQGVPGDLGAPGPSGARGERGFP
+                     GERGVQGPPGPAGPRGANGAPGNDGAKGDAGAPGAPGSQGAPGLQGMPGERGAAGLPG
+                     PKGDRGDAGPKGADGSPGKDGVRGLTGPIGPPGPAGAPGDKGESGPSGPAGPTGARGA
+                     PGDRGEPGPPGPAGFAGPPGADGQPGAKGEPGDAGAKGDAGPPGPAGPAGPPGPIGNV
+                     GAPGAKGARGSAGPPGATGFPGAAGRVGPPGPSGNAGPPGPPGPAGKEGGKGPRGETG
+                     PAGRPGEVGPPGPPGPAGEKGSPGADGPAGAPGTPGPQGIAGQRGVVGLPGQRGERGF
+                     PGLPGPSGEPGKQGPSGASGERGPPGPMGPPGLAGPPGESGREGAPGAEGSPGRDGSP
+                     GAKGDRGETGPAGPPGAPGAPGAPGPVGPAGKSGDRGETGPAGPAGPVGPVGARGPAG
+                     PQGPRGDKGETGEQGDRGIKGHRGFSGLQGPPGPPGSPGEQGPSGASGPAGPRGPPGS
+                     AGAPGKDGLNGLPGPIGPPGPRGRTGDAGPVGPPGPPGPPGPPGPPSAGFDFSFLPQP
+                     PQEKAHDGGRYYRADDANVVRDRDLEVDTTLKSLSQQIENIRSPEGSRKNPARTCRDL
+                     KMCHSDWKSGEYWIDPNQGCNLDAIKVFCNMETGETCVYPTQPSVAQKNWYISKNPKD
+                     KRHVWFGESMTDGFQFEYGGQGSDPADVAIQLTFLRLMSTEASQNITYHCKNSVAYMD
+                     QQTGNLKKALLLQGSNEIEIRAEGNSRFTYSVTVDGCTSHTGAWGKTVIEYKTTKTSR
+                     LPIIDVAPLDVGAPDQEFGFDVGPVCFL"
+     sig_peptide     119..184
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="COORDINATES: ab initio prediction:SignalP:4.0"
+     misc_feature    410..3760
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02452.6);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    599..604
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="Cleavage, by procollagen N-endopeptidase;
+                     propagated from UniProtKB/Swiss-Prot (P02452.6); cleavage
+                     site"
+     mat_peptide     602..3772
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /product="Collagen alpha-1(I) chain. /id=PRO_0000005720"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02452.6)"
+     misc_feature    602..652
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02452.6);
+                     Region: Nonhelical region (N-terminal)"
+     misc_feature    602..604
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="Pyrrolidone carboxylic acid.
+                     /evidence=ECO:0000269|PubMed:5529814; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6);
+                     pyrrolidone-carboxylic-acid site"
+     misc_feature    629..631
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P02454; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); phosphorylation site"
+     misc_feature    653..3694
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02452.6);
+                     Region: Triple-helical region"
+     misc_feature    686..688
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    695..697
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    704..706
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    731..733
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    740..742
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    749..751
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    794..796
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    839..841
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    857..859
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    884..886
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    902..904
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    911..913
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="5-hydroxylysine, alternate.
+                     /evidence=ECO:0000269|PubMed:4319110; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    911..913
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="O-linked (Gal...) hydroxylysine, alternate.
+                     /evidence=ECO:0000269|PubMed:4319110; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); glycosylation site"
+     misc_feature    929..931
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P02454; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); phosphorylation site"
+     misc_feature    983..985
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    992..994
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    1010..1012
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    1037..1039
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    1055..1057
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    1118..1120
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    1145..1147
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    1154..1156
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    1235..1237
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    1244..1246
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    1280..1282
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    1298..1300
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    1325..1327
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    1343..1345
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    1352..1354
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    1397..1399
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    1406..1408
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="5-hydroxylysine.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    1424..1426
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    1433..1435
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    1469..1471
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    1496..1498
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    1541..1543
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    1559..1561
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    1586..1588
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    1604..1606
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    1631..1633
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="5-hydroxylysine.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    1658..1660
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    1685..1687
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    1703..1705
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    1721..1723
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    1748..1750
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    1757..1759
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    1784..1786
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    1811..1813
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    1829..1831
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    1865..1867
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    1892..1894
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    1919..1921
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    1928..1930
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    1982..1984
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    2036..2038
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    2054..2056
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    2072..2074
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    2090..2092
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    2108..2110
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    2126..2128
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    2162..2164
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    2189..2191
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    2225..2227
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    2261..2263
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    2270..2272
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    2288..2290
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    2306..2308
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    2333..2335
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    2351..2359
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02452.6);
+                     Region: Cell attachment site. /evidence=ECO:0000255"
+     misc_feature    2369..2371
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="5-hydroxylysine.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    2387..2389
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    2432..2434
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    2450..2452
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    2477..2479
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P02454; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); phosphorylation site"
+     misc_feature    2513..2515
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    2531..2533
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    2540..2542
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    2567..2569
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    2585..2587
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    2639..2641
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    2666..2668
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    2693..2695
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    2702..2704
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="5-hydroxylysine.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    2729..2731
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    2747..2749
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    2771..2773
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="3-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P11087; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    2774..2776
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P11087; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    2801..2803
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P11087; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    2810..2812
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P11087; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    2873..2875
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    2900..2902
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    2927..2929
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    2954..2956
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    2975..2980
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="Cleavage, by collagenase. /evidence=ECO:0000250;
+                     propagated from UniProtKB/Swiss-Prot (P02452.6); cleavage
+                     site"
+     misc_feature    3008..3010
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    3035..3037
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    3044..3046
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    3062..3064
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    3107..3109
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    3125..3127
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    3143..3145
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    3170..3172
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    3188..3190
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    3215..3217
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="5-hydroxylysine.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    3251..3253
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    3260..3262
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    3269..3271
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    3395..3403
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02452.6);
+                     Region: Cell attachment site. /evidence=ECO:0000255"
+     misc_feature    3404..3406
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="5-hydroxylysine.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    3440..3442
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="5-hydroxylysine, alternate.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    3440..3442
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="O-linked (Gal...) hydroxylysine, alternate.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); glycosylation site"
+     misc_feature    3476..3478
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    3485..3487
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    3494..3496
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    3548..3550
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P02457; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    3593..3595
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P11087; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    3608..3610
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="3-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P11087; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    3611..3613
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P11087; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    3653..3655
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="3-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P11087; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    3656..3658
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P11087; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    3662..3664
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="3-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P11087; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    3665..3667
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P11087; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    3671..3673
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="3-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P11087; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    3674..3676
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P11087; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    3683..3685
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P11087; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    3692..3694
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000250|UniProtKB:P11087; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); hydroxylation site"
+     misc_feature    3695..3772
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02452.6);
+                     Region: Nonhelical region (C-terminal)"
+     misc_feature    3770..3775
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="Cleavage, by procollagen C-endopeptidase;
+                     propagated from UniProtKB/Swiss-Prot (P02452.6); cleavage
+                     site"
+     misc_feature    4211..4213
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="N-linked (GlcNAc...) asparagine; propagated from
+                     UniProtKB/Swiss-Prot (P02452.6); glycosylation site"
+     exon            222..416
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            417..451
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            452..487
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            488..589
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            590..661
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            662..706
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            707..760
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            761..814
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            815..868
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            869..922
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            923..976
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            977..1021
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1022..1075
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1076..1120
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1121..1174
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1175..1273
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1274..1318
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1319..1417
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1418..1471
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1472..1579
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1580..1633
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1634..1732
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1733..1786
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1787..1885
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1886..1939
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1940..1993
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1994..2047
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2048..2101
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2102..2146
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2147..2245
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2246..2353
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2354..2461
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2462..2515
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2516..2569
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2570..2677
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2678..2731
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2732..2785
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2786..2947
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2948..3055
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3056..3163
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3164..3217
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3218..3325
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3326..3379
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3380..3487
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3488..3541
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3542..3649
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3650..3932
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3933..4123
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4124..4366
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4367..5914
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      5889..5894
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="hexamer: AATAAA"
+     polyA_site      5914
+                     /gene="COL1A1"
+                     /gene_synonym="CAFYD; EDSARTH1; EDSC; OI1; OI2; OI3; OI4"
+                     /note="major polyA site"
+ORIGIN      
+        1 gcagacggga gtttctcctc ggggtcggag caggaggcac gcggagtgtg aggccacgca
+       61 tgagcggacg ctaaccccct ccccagccac aaagagtcta catgtctagg gtctagacat
+      121 gttcagcttt gtggacctcc ggctcctgct cctcttagcg gccaccgccc tcctgacgca
+      181 cggccaagag gaaggccaag tcgagggcca agacgaagac atcccaccaa tcacctgcgt
+      241 acagaacggc ctcaggtacc atgaccgaga cgtgtggaaa cccgagccct gccggatctg
+      301 cgtctgcgac aacggcaagg tgttgtgcga tgacgtgatc tgtgacgaga ccaagaactg
+      361 ccccggcgcc gaagtccccg agggcgagtg ctgtcccgtc tgccccgacg gctcagagtc
+      421 acccaccgac caagaaacca ccggcgtcga gggacccaag ggagacactg gcccccgagg
+      481 cccaagggga cccgcaggcc cccctggccg agatggcatc cctggacagc ctggacttcc
+      541 cggacccccc ggaccccccg gacctcccgg accccctggc ctcggaggaa actttgctcc
+      601 ccagctgtct tatggctatg atgagaaatc aaccggagga atttccgtgc ctggccccat
+      661 gggtccctct ggtcctcgtg gtctccctgg cccccctggt gcacctggtc cccaaggctt
+      721 ccaaggtccc cctggtgagc ctggcgagcc tggagcttca ggtcccatgg gtccccgagg
+      781 tcccccaggt ccccctggaa agaatggaga tgatggggaa gctggaaaac ctggtcgtcc
+      841 tggtgagcgt gggcctcctg ggcctcaggg tgctcgagga ttgcccggaa cagctggcct
+      901 ccctggaatg aagggacaca gaggtttcag tggtttggat ggtgccaagg gagatgctgg
+      961 tcctgctggt cctaagggtg agcctggcag ccctggtgaa aatggagctc ctggtcagat
+     1021 gggcccccgt ggcctgcctg gtgagagagg tcgccctgga gcccctggcc ctgctggtgc
+     1081 tcgtggaaat gatggtgcta ctggtgctgc cgggccccct ggtcccaccg gccccgctgg
+     1141 tcctcctggc ttccctggtg ctgttggtgc taagggtgaa gctggtcccc aagggccccg
+     1201 aggctctgaa ggtccccagg gtgtgcgtgg tgagcctggc ccccctggcc ctgctggtgc
+     1261 tgctggccct gctggaaacc ctggtgctga tggacagcct ggtgctaaag gtgccaatgg
+     1321 tgctcctggt attgctggtg ctcctggctt ccctggtgcc cgaggcccct ctggacccca
+     1381 gggccccggc ggccctcctg gtcccaaggg taacagcggt gaacctggtg ctcctggcag
+     1441 caaaggagac actggtgcta agggagagcc tggccctgtt ggtgttcaag gaccccctgg
+     1501 ccctgctgga gaggaaggaa agcgaggagc tcgaggtgaa cccggaccca ctggcctgcc
+     1561 cggaccccct ggcgagcgtg gtggacctgg tagccgtggt ttccctggcg cagatggtgt
+     1621 tgctggtccc aagggtcccg ctggtgaacg tggttctcct ggccctgctg gccccaaagg
+     1681 atctcctggt gaagctggtc gtcccggtga agctggtctg cctggtgcca agggtctgac
+     1741 tggaagccct ggcagccctg gtcctgatgg caaaactggc ccccctggtc ccgccggtca
+     1801 agatggtcgc cccggacccc caggcccacc tggtgcccgt ggtcaggctg gtgtgatggg
+     1861 attccctgga cctaaaggtg ctgctggaga gcccggcaag gctggagagc gaggtgttcc
+     1921 cggaccccct ggcgctgtcg gtcctgctgg caaagatgga gaggctggag ctcagggacc
+     1981 ccctggccct gctggtcccg ctggcgagag aggtgaacaa ggccctgctg gctcccccgg
+     2041 attccagggt ctccctggtc ctgctggtcc tccaggtgaa gcaggcaaac ctggtgaaca
+     2101 gggtgttcct ggagaccttg gcgcccctgg cccctctgga gcaagaggcg agagaggttt
+     2161 ccctggcgag cgtggtgtgc aaggtccccc tggtcctgct ggtccccgag gggccaacgg
+     2221 tgctcccggc aacgatggtg ctaagggtga tgctggtgcc cctggagctc ccggtagcca
+     2281 gggcgcccct ggccttcagg gaatgcctgg tgaacgtggt gcagctggtc ttccagggcc
+     2341 taagggtgac agaggtgatg ctggtcccaa aggtgctgat ggctctcctg gcaaagatgg
+     2401 cgtccgtggt ctgactggcc ccattggtcc tcctggccct gctggtgccc ctggtgacaa
+     2461 gggtgaaagt ggtcccagcg gccctgctgg tcccactgga gctcgtggtg cccccggaga
+     2521 ccgtggtgag cctggtcccc ccggccctgc tggctttgct ggcccccctg gtgctgacgg
+     2581 ccaacctggt gctaaaggcg aacctggtga tgctggtgct aaaggcgatg ctggtccccc
+     2641 tggccctgcc ggacccgctg gaccccctgg ccccattggt aatgttggtg ctcctggagc
+     2701 caaaggtgct cgcggcagcg ctggtccccc tggtgctact ggtttccctg gtgctgctgg
+     2761 ccgagtcggt cctcctggcc cctctggaaa tgctggaccc cctggccctc ctggtcctgc
+     2821 tggcaaagaa ggcggcaaag gtccccgtgg tgagactggc cctgctggac gtcctggtga
+     2881 agttggtccc cctggtcccc ctggccctgc tggcgagaaa ggatcccctg gtgctgatgg
+     2941 tcctgctggt gctcctggta ctcccgggcc tcaaggtatt gctggacagc gtggtgtggt
+     3001 cggcctgcct ggtcagagag gagagagagg cttccctggt cttcctggcc cctctggtga
+     3061 acctggcaaa caaggtccct ctggagcaag tggtgaacgt ggtccccctg gtcccatggg
+     3121 cccccctgga ttggctggac cccctggtga atctggacgt gagggggctc ctggtgccga
+     3181 aggttcccct ggacgagacg gttctcctgg cgccaagggt gaccgtggtg agaccggccc
+     3241 cgctggaccc cctggtgctc ctggtgctcc tggtgcccct ggccccgttg gccctgctgg
+     3301 caagagtggt gatcgtggtg agactggtcc tgctggtccc gccggtcctg tcggccctgt
+     3361 tggcgcccgt ggccccgccg gaccccaagg cccccgtggt gacaagggtg agacaggcga
+     3421 acagggcgac agaggcataa agggtcaccg tggcttctct ggcctccagg gtccccctgg
+     3481 ccctcctggc tctcctggtg aacaaggtcc ctctggagcc tctggtcctg ctggtccccg
+     3541 aggtccccct ggctctgctg gtgctcctgg caaagatgga ctcaacggtc tccctggccc
+     3601 cattgggccc cctggtcctc gcggtcgcac tggtgatgct ggtcctgttg gtccccccgg
+     3661 ccctcctgga cctcctggtc cccctggtcc tcccagcgct ggtttcgact tcagcttcct
+     3721 gccccagcca cctcaagaga aggctcacga tggtggccgc tactaccggg ctgatgatgc
+     3781 caatgtggtt cgtgaccgtg acctcgaggt ggacaccacc ctcaagagcc tgagccagca
+     3841 gatcgagaac atccggagcc cagagggcag ccgcaagaac cccgcccgca cctgccgtga
+     3901 cctcaagatg tgccactctg actggaagag tggagagtac tggattgacc ccaaccaagg
+     3961 ctgcaacctg gatgccatca aagtcttctg caacatggag actggtgaga cctgcgtgta
+     4021 ccccactcag cccagtgtgg cccagaagaa ctggtacatc agcaagaacc ccaaggacaa
+     4081 gaggcatgtc tggttcggcg agagcatgac cgatggattc cagttcgagt atggcggcca
+     4141 gggctccgac cctgccgatg tggccatcca gctgaccttc ctgcgcctga tgtccaccga
+     4201 ggcctcccag aacatcacct accactgcaa gaacagcgtg gcctacatgg accagcagac
+     4261 tggcaacctc aagaaggccc tgctcctcca gggctccaac gagatcgaga tccgcgccga
+     4321 gggcaacagc cgcttcacct acagcgtcac tgtcgatggc tgcacgagtc acaccggagc
+     4381 ctggggcaag acagtgattg aatacaaaac caccaagacc tcccgcctgc ccatcatcga
+     4441 tgtggccccc ttggacgttg gtgccccaga ccaggaattc ggcttcgacg ttggccctgt
+     4501 ctgcttcctg taaactccct ccatcccaac ctggctccct cccacccaac caactttccc
+     4561 cccaacccgg aaacagacaa gcaacccaaa ctgaaccccc tcaaaagcca aaaaatggga
+     4621 gacaatttca catggacttt ggaaaatatt tttttccttt gcattcatct ctcaaactta
+     4681 gtttttatct ttgaccaacc gaacatgacc aaaaaccaaa agtgcattca accttaccaa
+     4741 aaaaaaaaaa aaaaaaagaa taaataaata actttttaaa aaaggaagct tggtccactt
+     4801 gcttgaagac ccatgcgggg gtaagtccct ttctgcccgt tgggcttatg aaaccccaat
+     4861 gctgcccttt ctgctccttt ctccacaccc cccttggggc ctcccctcca ctccttccca
+     4921 aatctgtctc cccagaagac acaggaaaca atgtattgtc tgcccagcaa tcaaaggcaa
+     4981 tgctcaaaca cccaagtggc ccccaccctc agcccgctcc tgcccgccca gcacccccag
+     5041 gccctggggg acctggggtt ctcagactgc caaagaagcc ttgccatctg gcgctcccat
+     5101 ggctcttgca acatctcccc ttcgtttttg agggggtcat gccgggggag ccaccagccc
+     5161 ctcactgggt tcggaggaga gtcaggaagg gccacgacaa agcagaaaca tcggatttgg
+     5221 ggaacgcgtg tcaatccctt gtgccgcagg gctgggcggg agagactgtt ctgttccttg
+     5281 tgtaactgtg ttgctgaaag actacctcgt tcttgtcttg atgtgtcacc ggggcaactg
+     5341 cctgggggcg gggatggggg cagggtggaa gcggctcccc attttatacc aaaggtgcta
+     5401 catctatgtg atgggtgggg tggggaggga atcactggtg ctatagaaat tgagatgccc
+     5461 ccccaggcca gcaaatgttc ctttttgttc aaagtctatt tttattcctt gatatttttc
+     5521 tttttttttt tttttttttg tggatgggga cttgtgaatt tttctaaagg tgctatttaa
+     5581 catgggagga gagcgtgtgc ggctccagcc cagcccgctg ctcactttcc accctctctc
+     5641 cacctgcctc tggcttctca ggcctctgct ctccgacctc tctcctctga aaccctcctc
+     5701 cacagctgca gcccatcctc ccggctccct cctagtctgt cctgcgtcct ctgtccccgg
+     5761 gtttcagaga caacttccca aagcacaaag cagtttttcc ccctaggggt gggaggaagc
+     5821 aaaagactct gtacctattt tgtatgtgta taataatttg agatgttttt aattattttg
+     5881 attgctggaa taaagcatgt ggaaatgacc caaa
+//
+
