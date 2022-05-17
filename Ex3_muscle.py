@@ -3,7 +3,7 @@ from msilib.schema import Directory
 from Bio import SeqIO
 
 from Bio import AlignIO
-from Bio.Align.Applications import ClustalwCommandline
+from Bio.Align.Applications import MuscleCommandline
 
 from Bio import Phylo
 from Bio.Phylo.TreeConstruction import DistanceCalculator , DistanceTreeConstructor
@@ -26,7 +26,7 @@ def readFiles():
 
 def main():
 
-    output_folder = "output_ex3"
+    output_folder = "output_ex3_muscle"
     if not os.path.exists(f"./{output_folder}"):
         os.makedirs(f"./{output_folder}")
     #first arg: aln filename
@@ -34,15 +34,16 @@ def main():
     
     fasta_files = readFiles()
 
-    #Combine all files and send it to clustal to align
+    #Combine all files and send it to muscle to align
     SeqIO.write( fasta_files, combinedFile,  "fasta")
-    cline=ClustalwCommandline("clustalw2" , infile=combinedFile)
+    align_file = combinedFile[:-6] + '_aligned.fata' 
+    cline=MuscleCommandline ( input=combinedFile , out=align_file)
     cline()
 
 
     #read alignment
-    align_file = combinedFile[:-6] + '.aln' 
-    alignment=AlignIO.read( align_file ,  "clustal")
+  
+    alignment=AlignIO.read( align_file ,  "fasta")
     print("Alignment: ")
     print(alignment)
 
