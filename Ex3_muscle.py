@@ -7,6 +7,7 @@ from Bio.Align.Applications import MuscleCommandline
 
 from Bio import Phylo
 from Bio.Phylo.TreeConstruction import DistanceCalculator , DistanceTreeConstructor
+from Bio.Phylo.Consensus import bootstrap_trees , majority_consensus 
 
 import matplotlib
 import matplotlib.pyplot as plt
@@ -71,6 +72,22 @@ def main():
     axes = fig.add_subplot(1,1,1)
     Phylo.draw(tree ,axes=axes)
     fig.savefig(f"./{output_folder}/tree")
+
+    #Boostrap
+    trees = bootstrap_trees(alignment , 50 ,constructor)
+    tree = majority_consensus(trees)
+    tree.rooted = True
+    print("Bootstrapped Tree: ")
+    print(tree)
+    #Save tree into a file
+    Phylo.write(tree , f"./{output_folder}/bootstrap_tree.xml" , "phyloxml")
+    print("Tree figure: ")
+    Phylo.draw_ascii(tree)
+    fig = plt.figure(figsize=(13,5) , dpi=100)
+    axes = fig.add_subplot(1,1,1)
+    Phylo.draw(tree ,axes=axes)
+    fig.savefig(f"./{output_folder}/bootstrap_tree")
+    return
     return
 
 if __name__ == "__main__":
