@@ -4,12 +4,22 @@ from itertools import count
 from Bio import SeqIO
 from Bio.Seq import Seq
 from Bio.SeqRecord import SeqRecord
+import argparse
 import sys
 
+if len(sys.argv) != 3:
+    print("Wrong arguments amount")
+    exit(1)
+
+parser = argparse.ArgumentParser()
+parser.add_argument("input", metavar="INPUT", help="input file, must be a GENBANK file (.gb)")
+parser.add_argument("output", metavar="OUTPUT", help="output file is a FASTA file with longest ORF(.fas)")
+args = parser.parse_args()
+
 try:
-    f = open(sys.argv[1], "r")
+    f = open(args.input, "r")
 except OSError:
-    print("Could not open/read file:", sys.argv[1])
+    print("Could not open/read file:", args.input)
     exit()
 
 with f as input_handle:
@@ -70,5 +80,5 @@ with f as input_handle:
         description=record.description
     )
 
-    with open(sys.argv[2], "w") as output_handle:
+    with open(args.output, "w") as output_handle:
         SeqIO.write(max_seq, output_handle, "fasta")
