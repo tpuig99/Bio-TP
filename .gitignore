@@ -1,6 +1,7 @@
 
 *.fas
 *.xml
+*.patmatmotifs
 
 .vscode
 
