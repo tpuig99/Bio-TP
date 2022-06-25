@@ -1,4 +1,12 @@
-from unittest import expectedFailure
+"""Executes blastp against a FASTA input and returns a result in XML format containing all matches
+
+Help:
+    ./Ex2 -h
+
+Example:
+    ./Ex2.py input.fas output.xml --> runs remote blastp against input.fas with default parameters and saves result in output.xml
+"""
+
 from Bio.Blast import NCBIWWW
 from Bio.Blast.Applications import NcbiblastnCommandline
 from Bio import SeqIO
