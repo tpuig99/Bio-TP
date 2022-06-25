@@ -1,3 +1,4 @@
+import chunk
 from cmath import inf
 from itertools import count
 from Bio import SeqIO
@@ -5,14 +6,25 @@ from Bio.Seq import Seq
 from Bio.SeqRecord import SeqRecord
 import sys
 
+try:
+    f = open(sys.argv[1], "r")
+except OSError:
+    print("Could not open/read file:", sys.argv[1])
+    exit()
 
-with open(sys.argv[1], "rU") as input_handle:
+with f as input_handle:
 
-    record = SeqIO.read(input_handle, "genbank")
+    try:
+        record = SeqIO.read(input_handle, "genbank")
+    except ValueError:
+        print("Error reading as a genbank file")
+        exit()
+    
 
     table = 1
     min_pro_len = 100
     END_CODON =['TAG','TAA','TGA']
+    START_CODON = "ATG"
     sequences = []
     sequences_f = []
 
@@ -22,24 +34,34 @@ with open(sys.argv[1], "rU") as input_handle:
             my_seq = Seq(nuc[frame:frame+length])
             l_start = 0
             l_end = 0
-            f_start = 0
-            f_end = 0
-            start_codon = my_seq.find("ATG")
-            while start_codon  != -1:
+            codon_len = 3 # chunk length
+            chunks = [my_seq[i:i+codon_len] for i in range(0, len(my_seq),codon_len)]
+            
+            start_codon = -1
+            while True:
+                try:
+                    start_codon = chunks.index(START_CODON,start_codon+1)
+                except ValueError:
+                    break
                 end_codon = inf
                 for codon in END_CODON:
-                    n = my_seq.find(codon,start_codon+2)
+                    try:
+                        n = chunks.index(codon,start_codon)
+                    except ValueError:
+                        continue
                     if n < end_codon:
                         end_codon = n
-                if (end_codon - start_codon) > (l_end - l_start):
+                if end_codon != inf and (end_codon - start_codon) > (l_end - l_start):
                     l_start = start_codon
                     l_end = end_codon
-                if f_end == 0:
-                    f_start = start_codon
-                    f_end = end_codon
-                start_codon = my_seq.find("ATG",start_codon+2)
+
+            l_start *= 3
+            l_end *= 3
             sequences.append(my_seq[l_start:l_end+3])
-            sequences_f.append(my_seq[f_start:f_end+3])
+    
+    if len(sequences) == 0:
+        print("None ORF where found on file")
+        exit()
 
     maxSeq = max(sequences, key=lambda x:len(x))
     max_seq = SeqRecord(
@@ -48,13 +70,5 @@ with open(sys.argv[1], "rU") as input_handle:
         description=record.description
     )
 
-    maxSeqF = max(sequences_f, key=lambda x:len(x))
-    max_seq_f = SeqRecord(
-            Seq(maxSeqF),
-            id=record.id,
-            description=record.description
-    )
     with open(sys.argv[2], "w") as output_handle:
         SeqIO.write(max_seq, output_handle, "fasta")
-    with open(f'first_{sys.argv[2]}', "w") as output_handle:
-        SeqIO.write(max_seq_f, output_handle, "fasta")
