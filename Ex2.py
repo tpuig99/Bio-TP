@@ -22,7 +22,12 @@ with args.input as input:
         sys.exit(f"error: file {input.name} is empty or is not in FASTA format")
 
 if (args.blast_type == LOCAL_BLAST):
-    cline = NcbiblastnCommandline(query="m_cold.fasta", db="nt", out="m_cold.xml", outfmt=5)
+    try:
+        cline = NcbiblastnCommandline(query=sequence_data, db="nt", out=args.output, outfmt=5)
+        cline()
+    except:
+        sys.exit("error: local BLAST failed, is blastn installed? If so, check env variables PATH and BLASTDB are correctly setted and that the local database is configured")
+
 else:
     result_handle = NCBIWWW.qblast(
         program="blastn",
