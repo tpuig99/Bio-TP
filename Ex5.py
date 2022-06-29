@@ -9,7 +9,7 @@ Help:
     ./Ex5 -h
 
 Example:
-    ./Ex5.py input.fas output.patmatmotifs --> runs emboss getorf and then finds motifs with patmatmotifs to generate a report 
+    pyhton3 ./Ex5.py input.gb output.fas output.patmatmotifs --> runs emboss getorf and then finds motifs with patmatmotifs to generate a report 
 """
 
 import argparse
